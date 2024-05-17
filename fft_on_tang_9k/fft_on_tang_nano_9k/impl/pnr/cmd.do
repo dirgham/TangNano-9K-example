@@ -1,0 +1,12 @@
+-d C:\GitHub\TangNano-9K-example\fft_on_tang_9k\fft_on_tang_nano_9k\impl\gwsynthesis\fft_on_tang_nano_9k.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cfg C:\GitHub\TangNano-9K-example\fft_on_tang_9k\fft_on_tang_nano_9k\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
+-global_freq 50.000
